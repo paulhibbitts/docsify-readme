@@ -54,7 +54,7 @@ Look at [this tutorial](https://docsify.js.org/#/quickstart) and get going quick
 
 ## Showcase
 
-A large collection of showcase projects are listed on [awesome-docsify](https://github.com/docsifyjs/awesome-docsify#showcase)
+A large collection of showcase projects are included in [awesome-docsify](https://github.com/docsifyjs/awesome-docsify#showcase).
 
 ## Similar projects
 
