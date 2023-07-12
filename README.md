@@ -48,7 +48,7 @@
 
 ## Quick start
 
-Look at [this tutorial](https://docsify.js.org/#/quickstart)
+Look at [this tutorial](https://docsify.js.org/#/quickstart) and get going quickly with this ready-to-use [Docsify Template](https://github.com/docsifyjs/docsify-template).
 
 [![Edit 307qqv236](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/307qqv236)
 
