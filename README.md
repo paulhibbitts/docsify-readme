@@ -27,7 +27,7 @@
   </a>
 </p>
 
-Docsify converts Markdown files into a Website with no build process required.  
+Docsify turns Markdown files into a Website with no build process required.  
 
 ## Links
 
