@@ -27,6 +27,8 @@
   </a>
 </p>
 
+Docsify converts Markdown files into a Website with no build process required.
+
 ## Links
 
 - [`develop` branch preview](https://docsify-preview.vercel.app/)
