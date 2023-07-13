@@ -39,7 +39,7 @@ Docsify turns one or more Markdown files into a Website, with no build process r
 - Compatible with IE11
 - Support embedded files
 
-## Quick start
+## Quick Start
 
 Look at the [quick start tutorial](https://docsify.js.org/#/quickstart) or get going even faster by using GitHub Pages with this ready-to-use [Docsify Template](https://github.com/docsifyjs/docsify-template).
 
@@ -58,7 +58,7 @@ A large collection of showcase projects are included in [awesome-docsify](https:
 - [Awesome docsify](https://github.com/docsifyjs/awesome-docsify)
 - [Community chat](https://discord.gg/3NwKFyR)
 
-## Similar projects
+## Similar Projects
 
 | Project                                          | Description                              |
 | ------------------------------------------------ | ---------------------------------------- |
