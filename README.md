@@ -65,7 +65,7 @@ A large collection of showcase projects are included in [awesome-docsify](https:
 | [Docusaurus](https://docusaurus.io) | Docusaurus makes it easy to maintain Open Source documentation websites |
 | [GitBook](https://www.gitbook.com) | Where technical teams document |
 | [MkDocs](https://www.mkdocs.org) | Project documentation with Markdown |
-| [VuePress](https://vuepress.vuejs.org) | Vue-powered Static Site Generator |
+| [VitePress](https://vitepress.dev/) | Vite & Vue Powered Static Site Generator |
 
 ## Contributing
 
