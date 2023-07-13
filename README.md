@@ -29,15 +29,6 @@
 
 Docsify turns one or more Markdown files into a Website, with no build process required.  
 
-## Links
-
-- [`develop` branch preview](https://docsify-preview.vercel.app/)
-- [Documentation](https://docsify.js.org)
-- [CLI](https://github.com/docsifyjs/docsify-cli)
-- CDN: [UNPKG](https://unpkg.com/docsify/) | [jsDelivr](https://cdn.jsdelivr.net/npm/docsify/) | [cdnjs](https://cdnjs.com/libraries/docsify)
-- [Awesome docsify](https://github.com/docsifyjs/awesome-docsify)
-- [Community chat](https://discord.gg/3NwKFyR)
-
 ## Features
 
 - No statically built html files
@@ -57,6 +48,15 @@ Look at the [quick start tutorial](https://docsify.js.org/#/quickstart) or get g
 ## Showcase
 
 A large collection of showcase projects are included in [awesome-docsify](https://github.com/docsifyjs/awesome-docsify#showcase).
+
+## Links
+
+- [`develop` branch preview](https://docsify-preview.vercel.app/)
+- [Documentation](https://docsify.js.org)
+- [CLI](https://github.com/docsifyjs/docsify-cli)
+- CDN: [UNPKG](https://unpkg.com/docsify/) | [jsDelivr](https://cdn.jsdelivr.net/npm/docsify/) | [cdnjs](https://cdnjs.com/libraries/docsify)
+- [Awesome docsify](https://github.com/docsifyjs/awesome-docsify)
+- [Community chat](https://discord.gg/3NwKFyR)
 
 ## Similar projects
 
